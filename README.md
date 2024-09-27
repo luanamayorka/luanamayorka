@@ -1,16 +1,16 @@
-## Hi there 👋
+##Sombras do Passado
 
-<!--
-**luanamayorka/luanamayorka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##História 
+Você é Lara, uma jovem que retorna à sua cidade natal após a misteriosa morte de sua avó. Ao chegar, você descobre que a cidade está envolta em mistérios e assombrações, todos ligados a um antigo segredo familiar. Enquanto explora a casa da avó e seus arredores, você deve desvendar pistas para descobrir a verdade e escapar das sombras que a perseguem.
 
-Here are some ideas to get you started:
+##gameplay
+Exploração: O jogador deve explorar ambientes diversos, como a casa da avó, a floresta próxima e a antiga escola da cidade.
+Quebra-Cabeças: Ao longo do caminho, Lara encontrará quebra-cabeças que revelam partes da história e desbloqueiam novas áreas.
+Encontros Sobrenaturais: Durante a exploração, Lara enfrentará sombras e espíritos que a perseguem, exigindo que o jogador fuja ou resolva desafios para sobreviver.
+Decisões: O jogador fará escolhas que afetarão a história e o final do jogo, adicionando um elemento de replay.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##controlesW/A/S/D para mover Lara.
+E para interagir com objetos e pistas.
+I para abrir o inventário e examinar itens.
+Shift para correr (cuidado, isso consome energia).
+F para ativar a habilidade de ouvir ecos, revelando segredos temporariamente.

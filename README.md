@@ -9,7 +9,8 @@ Quebra-Cabeças: Ao longo do caminho, Lara encontrará quebra-cabeças que revel
 Encontros Sobrenaturais: Durante a exploração, Lara enfrentará sombras e espíritos que a perseguem, exigindo que o jogador fuja ou resolva desafios para sobreviver.
 Decisões: O jogador fará escolhas que afetarão a história e o final do jogo, adicionando um elemento de replay.
 
-##controlesW/A/S/D para mover Lara.
+##controles
+W/A/S/D para mover Lara.
 E para interagir com objetos e pistas.
 I para abrir o inventário e examinar itens.
 Shift para correr (cuidado, isso consome energia).
